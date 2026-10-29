@@ -1,2 +1,2 @@
-# meteo-python
-Juan Carlos y Marina
+# Práctica final: meteo-python
+Autores: Juan Carlos y Marina
